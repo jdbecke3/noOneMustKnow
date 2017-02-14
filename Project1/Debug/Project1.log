@@ -1,0 +1,37 @@
+﻿  client.cpp
+c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(31): warning C4005: 'ERROR': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\wingdi.h(114): note: see previous definition of 'ERROR'
+c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(90): warning C4002: too many actual parameters for macro 'PR'
+c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(102): warning C4002: too many actual parameters for macro 'PR'
+c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(114): warning C4002: too many actual parameters for macro 'PR'
+c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(140): warning C4002: too many actual parameters for macro 'PR'
+c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(146): warning C4002: too many actual parameters for macro 'PR'
+c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(152): warning C4002: too many actual parameters for macro 'PR'
+c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(175): warning C4002: too many actual parameters for macro 'PR'
+c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(182): warning C4002: too many actual parameters for macro 'PR'
+c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(90): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(90): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(90): note: the missing variadic argument 1 is required by format string '%d'
+c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(102): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(102): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(102): note: the missing variadic argument 1 is required by format string '%d'
+c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(114): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(114): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(114): note: the missing variadic argument 1 is required by format string '%ld'
+c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(140): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(140): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(140): note: the missing variadic argument 1 is required by format string '%d'
+c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(146): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(146): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(146): note: the missing variadic argument 1 is required by format string '%ld'
+c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(152): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(152): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(152): note: the missing variadic argument 1 is required by format string '%d'
+c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(175): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(175): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(175): note: the missing variadic argument 1 is required by format string '%d'
+c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(182): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(182): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\joshua\documents\github\constructionmanagementapp\projects\appv2\project1\project1\client.cpp(182): note: the missing variadic argument 1 is required by format string '%d'
+  Project1.vcxproj -> C:\Users\Joshua\Documents\GitHub\ConstructionManagementApp\Projects\AppV2\Project1\Debug\sockets.exe
+  Project1.vcxproj -> C:\Users\Joshua\Documents\GitHub\ConstructionManagementApp\Projects\AppV2\Project1\Debug\sockets.pdb (Partial PDB)
